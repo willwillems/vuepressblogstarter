@@ -1,5 +1,11 @@
 <template>
-  <div class="theme-container">
+  <article>
     <Content/>
-  </div>
+  </article>
 </template>
+
+<style lang="sass" scoped>
+article
+  max-width: 700px
+  margin: auto
+</style>
